@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Keith
-- 👀 I’m interested in python junior developer opportunities and internships.
+- 👀 I’m interested in solution engineer opportunies and python junior developer opportunities and internships.
 - 🌱 I’m currently learning data structures and web services.
 - 💞️ I’m looking to collaborate on backend projects.
 - 📫 How to reach me kcy022@gmail.com
